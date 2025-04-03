@@ -1,0 +1,1 @@
+print("New line added in the second file")
